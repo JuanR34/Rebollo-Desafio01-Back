@@ -34,9 +34,9 @@ class Usuario {
     //     return a
     // }
     
-    var a = libros.map(function(libro){
-        return libro.nombre
-    })
+    // var a = libros.map(function(libro){
+    //     return libro.nombre
+    // })
     }
 };
 
